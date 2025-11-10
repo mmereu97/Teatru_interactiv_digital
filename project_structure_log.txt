@@ -1,0 +1,309 @@
+Structura proiectului începând de la: D:\PycharmProjects\Aarici
+============================================================
+
+├── .env
+├── Rlaugh.mp4
+├── aripi.mp4
+├── config.json
+├── cucuvel.mp4
+├── idei noi.txt
+├── main_app.py
+├── tool - extrage_cadre.py
+├── tool - tree_generator.py
+└── Backgrounds/
+    ├── acasa.png
+    ├── pajiste.png
+    ├── poiana.png
+    ├── scoala.png
+└── characters/
+    ├── __init__.py
+    ├── animators.py
+    ├── base_character.py
+    └── cucuvel_owl/
+        ├── __init__.py
+        ├── character.py
+        ├── config.json
+        └── assets/
+            ├── MasterOwl.psd
+            └── - expresii/
+                └── attentive/
+                └── confuz/
+                └── curious/
+                └── happy/
+                └── playful/
+                └── proud/
+                └── sad/
+                └── surprised/
+                └── thinking/
+            └── - vechi/
+                ├── bufnita01.mp4
+                ├── bufnita_cap_neutru.png
+                ├── bufnita_corp.png
+                ├── bufnita_gura_deschisa.png
+                ├── bufnita_gura_inchisa.png
+                ├── frame_0008.png
+                ├── frame_0009.png
+                ├── frame_0010.png
+                ├── ochi_intredeschisi1.png
+            └── aripa_dreapta/
+                ├── aripa_dreapta.png
+                ├── aripa_dreapta_extinsa.png
+            └── aripa_stanga/
+                ├── aripa_stanga.png
+                ├── aripa_stanga_extinsa.png
+                ├── aripa_stanga_ganditoare.png
+            └── cap/
+                ├── cap_baza.png
+                └── gura/
+                    ├── gura_deschisa.png
+                    ├── gura_inchisa.png
+                    ├── gura_zambitoare.png
+                └── ochi/
+                    ├── ochi_deschisi_centru.png
+                    ├── ochi_deschisi_dreapta.png
+                    ├── ochi_deschisi_stanga.png
+                    ├── ochi_inchisi_centru.png
+                    ├── ochi_inchisi_dreapta.png
+                    ├── ochi_inchisi_stanga.png
+                    ├── ochi_pupil_centru.png
+                    ├── ochi_semi_centru.png
+                    ├── ochi_semi_dreapta.png
+                    ├── ochi_semi_stanga.png
+                └── sprancene/
+                    ├── spranceana_dreapta_exterior.png
+                    ├── spranceana_dreapta_neutra.png
+                    ├── spranceana_dreapta_sus.png
+                    ├── spranceana_stanga_exterior.png
+                    ├── spranceana_stanga_neutra.png
+                    ├── spranceana_stanga_sus.png
+            └── corp/
+                ├── trunchi.png
+            └── picioare/
+                ├── picioare.png
+        └── audio_replici/
+            ├── audio01.mp3
+            ├── audio02.mp3
+            ├── audio03.mp3
+            ├── audio04.mp3
+            ├── audio05.mp3
+            ├── audio06.mp3
+            ├── audio07.mp3
+            ├── audio08.mp3
+            ├── audio09.mp3
+            ├── audio10.mp3
+            ├── audio11.mp3
+            ├── audio12.mp3
+            ├── audio13.mp3
+            ├── audio14.mp3
+            ├── audio15.mp3
+            ├── audio16.mp3
+            ├── audio17.mp3
+            ├── audio18.mp3
+            ├── audio20.mp3
+        └── prompts/
+            ├── personality.txt
+    └── rina_cat/
+        ├── Master
+        ├── __init__.py
+        ├── character.py
+        ├── config.json
+        └── assets/
+            └── cap/
+                ├── cap_baza.png
+                └── gura/
+                    ├── gura_deschisa.png
+                    ├── gura_inchisa.png
+                    ├── gura_zambitoare.png
+                └── ochi/
+                    ├── ochi_deschisi_centru.png
+                    ├── ochi_deschisi_dreapta.png
+                    ├── ochi_deschisi_stanga.png
+                    ├── ochi_ganditori.png
+                    ├── ochi_inchisi_centru.png
+                    ├── ochi_inchisi_dreapta.png
+                    ├── ochi_inchisi_stanga.png
+                    ├── ochi_semi_centru.png
+                    ├── ochi_semi_dreapta.png
+                    ├── ochi_semi_stanga.png
+                └── urechi/
+            └── coada/
+            └── corp/
+                ├── trunchi.png
+            └── laba_dreapta/
+            └── laba_stanga/
+            └── vechi/
+                └── sursa/
+                    ├── frame_0069 - cap neutru.png
+                    ├── frame_0070 - ciclu vorbire.png
+                    ├── frame_0071 - ciclu vorbire.png
+                    ├── frame_0072 - ciclu vorbire.png
+                    ├── frame_0073 - ciclu vorbire.png
+                    ├── frame_0074 - ciclu vorbire.png
+                    ├── frame_0075 - ciclu vorbire.png
+                    ├── frame_0076 - ciclu vorbire.png
+                    ├── frame_0077.png
+                    ├── frame_0078.png
+                    ├── frame_0079.png
+                    ├── frame_0080 - ciclu ochi.png
+                    ├── frame_0081 - ciclu ochi.png
+                    ├── frame_0082 - ciclu ochi.png
+                    ├── frame_0083 - ciclu ochi.png
+                    ├── frame_0084 - ciclu ochi.png
+                    ├── frame_0085 - ciclu ochi.png
+                    ├── frame_0086 - ciclu ochi.png
+                    ├── frame_0087 - ciclu ochi.png
+                    ├── frame_0088.png
+                    ├── frame_0089.png
+                    ├── frame_0090.png
+                    ├── frame_0091.png
+                    ├── frame_0094 - corp.png
+        └── audio_replici_en/
+            ├── allow_me_a_moment_to.mp3
+            ├── bear_with_me_a_momen.mp3
+            ├── hmm,_that_requires_a.mp3
+            ├── hold_on,_i_just_want.mp3
+            ├── i'll_need_to_mull_th.mp3
+            ├── i_want_to_be_sure_i_.mp3
+            ├── just_a_moment.mp3
+            ├── let_me_have_a_think_.mp3
+            ├── let_me_just_consider.mp3
+            ├── let_me_just_find_the.mp3
+            ├── let_me_just_ponder_t.mp3
+            ├── now_that's_a_tricky_.mp3
+            ├── one_moment,_please.mp3
+            ├── one_moment_i'm_just_.mp3
+        └── prompts/
+            ├── personality.txt
+└── managers/
+    ├── __init__.py
+    ├── character_manager.py
+    ├── scene_configs.json
+    ├── scene_manager.py
+└── rlaugh/
+    ├── frame_0000.png
+    ├── frame_0001.png
+    ├── frame_0002.png
+    ├── frame_0003.png
+    ├── frame_0004.png
+    ├── frame_0005.png
+    ├── frame_0006.png
+    ├── frame_0007.png
+    ├── frame_0008.png
+    ├── frame_0009.png
+    ├── frame_0010.png
+    ├── frame_0011.png
+    ├── frame_0012.png
+    ├── frame_0013.png
+    ├── frame_0014.png
+    ├── frame_0015.png
+    ├── frame_0016.png
+    ├── frame_0017.png
+    ├── frame_0018.png
+    ├── frame_0019.png
+    ├── frame_0020.png
+    ├── frame_0021.png
+    ├── frame_0022.png
+    ├── frame_0023.png
+    ├── frame_0024.png
+    ├── frame_0025.png
+    ├── frame_0026.png
+    ├── frame_0027.png
+    ├── frame_0028.png
+    ├── frame_0029.png
+    ├── frame_0030.png
+    ├── frame_0031.png
+    ├── frame_0032.png
+    ├── frame_0033.png
+    ├── frame_0034.png
+    ├── frame_0035.png
+    ├── frame_0036.png
+    ├── frame_0037.png
+    ├── frame_0038.png
+    ├── frame_0039.png
+    ├── frame_0040.png
+    ├── frame_0041.png
+    ├── frame_0042.png
+    ├── frame_0043.png
+    ├── frame_0044.png
+    ├── frame_0045.png
+    ├── frame_0046.png
+    ├── frame_0047.png
+    ├── frame_0048.png
+    ├── frame_0049.png
+    ├── frame_0050.png
+    ├── frame_0051.png
+    ├── frame_0052.png
+    ├── frame_0053.png
+    ├── frame_0054.png
+    ├── frame_0055.png
+    ├── frame_0056.png
+    ├── frame_0057.png
+    ├── frame_0058.png
+    ├── frame_0059.png
+    ├── frame_0060.png
+    ├── frame_0061.png
+    ├── frame_0062.png
+    ├── frame_0063.png
+    ├── frame_0064.png
+    ├── frame_0065.png
+    ├── frame_0066.png
+    ├── frame_0067.png
+    ├── frame_0068.png
+    ├── frame_0069.png
+    ├── frame_0070.png
+    ├── frame_0071.png
+    ├── frame_0072.png
+    ├── frame_0073.png
+    ├── frame_0074.png
+    ├── frame_0075.png
+    ├── frame_0076.png
+    ├── frame_0077.png
+    ├── frame_0078.png
+    ├── frame_0079.png
+    ├── frame_0080.png
+    ├── frame_0081.png
+    ├── frame_0082.png
+    ├── frame_0083.png
+    ├── frame_0084.png
+    ├── frame_0085.png
+    ├── frame_0086.png
+    ├── frame_0087.png
+    ├── frame_0088.png
+    ├── frame_0089.png
+    ├── frame_0090.png
+    ├── frame_0091.png
+    ├── frame_0092.png
+    ├── frame_0093.png
+    ├── frame_0094.png
+    ├── frame_0095.png
+    ├── frame_0096.png
+    ├── frame_0097.png
+    ├── frame_0098.png
+    ├── frame_0099.png
+    ├── frame_0100.png
+    ├── frame_0101.png
+    ├── frame_0102.png
+    ├── frame_0103.png
+    ├── frame_0104.png
+    ├── frame_0105.png
+    ├── frame_0106.png
+    ├── frame_0107.png
+    ├── frame_0108.png
+    ├── frame_0109.png
+    ├── frame_0110.png
+    ├── frame_0111.png
+    ├── frame_0112.png
+    ├── frame_0113.png
+    ├── frame_0114.png
+    ├── frame_0115.png
+    ├── frame_0116.png
+    ├── frame_0117.png
+    ├── frame_0118.png
+    ├── frame_0119.png
+    ├── frame_0120.png
+    ├── frame_0121.png
+    ├── frame_0122.png
+    ├── frame_0123.png
+    ├── frame_0124.png
+└── scenes/
+    ├── scene_configs.json

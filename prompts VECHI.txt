@@ -1,0 +1,255 @@
+caine.png        /imagine prompt: A cute dog, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pisica.png       /imagine prompt: A cute cat, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+vaca.png         /imagine prompt: A cute cow, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+porc.png         /imagine prompt: A cute pig, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+oaie.png         /imagine prompt: A cute sheep, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cal.png          /imagine prompt: A cute horse, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+gaina.png        /imagine prompt: A cute chicken, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cocos.png        /imagine prompt: A cute rooster, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+rata.png         /imagine prompt: A cute duck, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+gasca.png        /imagine prompt: A cute goose, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+curcan.png       /imagine prompt: A cute turkey, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+capra.png        /imagine prompt: A cute goat, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+magar.png        /imagine prompt: A cute donkey, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+iepure.png       /imagine prompt: A cute rabbit, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+hamster.png      /imagine prompt: A cute hamster, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+papagal.png      /imagine prompt: A cute parrot, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+peste_auriu.png  /imagine prompt: A cute goldfish, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+soricel.png      /imagine prompt: A cute mouse, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+broasca_testoasa.png /imagine prompt: A cute turtle, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pui_de_gaina.png /imagine prompt: A cute chick, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+urs.png          /imagine prompt: A cute bear, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+lup.png          /imagine prompt: A cute wolf, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+vulpe.png        /imagine prompt: A cute fox, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+leu.png          /imagine prompt: A cute lion, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+tigru.png        /imagine prompt: A cute tiger, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+elefant.png      /imagine prompt: A cute elephant, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+maimuta.png      /imagine prompt: A cute monkey, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+girafa.png       /imagine prompt: A cute giraffe, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+zebra.png        /imagine prompt: A cute zebra, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cangur.png       /imagine prompt: A cute kangaroo, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+hipopotam.png    /imagine prompt: A cute hippo, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+rinocer.png      /imagine prompt: A cute rhino, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+crocodil.png     /imagine prompt: A cute crocodile, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+sarpe.png        /imagine prompt: A cute snake, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+broasca.png      /imagine prompt: A cute frog, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+urs_panda.png    /imagine prompt: A cute panda bear, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+koala.png        /imagine prompt: A cute koala, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+veverita.png     /imagine prompt: A cute squirrel, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+arici.png        /imagine prompt: A cute hedgehog, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cerb.png         /imagine prompt: A cute deer, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+delfin.png       /imagine prompt: A cute dolphin, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+balena.png       /imagine prompt: A cute whale, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+rechin.png       /imagine prompt: A cute shark, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pinguin.png      /imagine prompt: A cute penguin, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+bufnita.png      /imagine prompt: A cute owl, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+vultur.png       /imagine prompt: A cute eagle, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+fluture.png      /imagine prompt: A cute butterfly, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+albina.png       /imagine prompt: A cute bee, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+buburuza.png     /imagine prompt: A cute ladybug, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+melc.png         /imagine prompt: A cute snail, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+mar.png          /imagine prompt: A cute red apple, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+banana.png       /imagine prompt: A cute banana, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+portocala.png    /imagine prompt: A cute orange fruit, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+capsuna.png      /imagine prompt: A cute strawberry, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+struguri.png     /imagine prompt: A cute bunch of grapes, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+para.png         /imagine prompt: A cute pear, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+lamaie.png       /imagine prompt: A cute lemon, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cirese.png       /imagine prompt: A cute pair of cherries, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pepene.png       /imagine prompt: A cute watermelon slice, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ananas.png       /imagine prompt: A cute pineapple, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+piersica.png     /imagine prompt: A cute peach, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+kiwi.png         /imagine prompt: A cute kiwi fruit, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+avocado.png      /imagine prompt: A cute avocado, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+nuca_de_cocos.png /imagine prompt: A cute coconut, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+zmeura.png       /imagine prompt: A cute raspberry, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+morcov.png       /imagine prompt: A cute carrot, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+rosie.png        /imagine prompt: A cute tomato, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cartof.png       /imagine prompt: A cute potato, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+broccoli.png     /imagine prompt: A cute broccoli, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+castravete.png   /imagine prompt: A cute cucumber, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ardei.png        /imagine prompt: A cute red bell pepper, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ceapa.png        /imagine prompt: A cute onion, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+usturoi.png      /imagine prompt: A cute garlic, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+porumb.png       /imagine prompt: A cute corn on the cob, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+vanata.png       /imagine prompt: A cute eggplant, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ciuperca.png     /imagine prompt: A cute mushroom, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+salata.png       /imagine prompt: A cute lettuce, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+dovleac.png      /imagine prompt: A cute pumpkin, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+mazare.png       /imagine prompt: A cute pea pod, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ridiche.png      /imagine prompt: A cute radish, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+paine.png        /imagine prompt: A cute loaf of bread, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+lapte.png        /imagine prompt: A cute glass of milk, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+branza.png       /imagine prompt: A cute piece of cheese, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ou.png           /imagine prompt: A cute egg, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pizza.png        /imagine prompt: A cute slice of pizza, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+hamburger.png    /imagine prompt: A cute hamburger, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+inghetata.png    /imagine prompt: A cute ice cream cone, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ciocolata.png    /imagine prompt: A cute bar of chocolate, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+prajitura.png    /imagine prompt: A cute slice of cake, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+fursec.png       /imagine prompt: A cute chocolate chip cookie, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+gogoasa.png      /imagine prompt: A cute donut, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cartofi_prajiti.png /imagine prompt: A cute box of french fries, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+tort.png         /imagine prompt: A cute birthday cake, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+acadea.png       /imagine prompt: A cute lollipop, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+miere.png        /imagine prompt: A cute jar of honey, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+suc.png          /imagine prompt: A cute juice box, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+apa.png          /imagine prompt: A cute bottle of water, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+supa.png         /imagine prompt: A cute bowl of soup, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+friptura.png     /imagine prompt: A cute chicken drumstick, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+sandwich.png     /imagine prompt: A cute sandwich, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+masa.png         /imagine prompt: A cute wooden table, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+scaun.png        /imagine prompt: A cute wooden chair, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pat.png          /imagine prompt: A cute bed with a pillow, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+canapea.png      /imagine prompt: A cute sofa, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+televizor.png    /imagine prompt: A cute television, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+lampa.png        /imagine prompt: A cute table lamp, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ceas.png         /imagine prompt: A cute wall clock, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+carte.png        /imagine prompt: A cute open book, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+telefon.png      /imagine prompt: A cute smartphone, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cheie.png        /imagine prompt: A cute metal key, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+usa.png          /imagine prompt: A cute wooden door, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+fereastra.png    /imagine prompt: A cute window, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+farfurie.png     /imagine prompt: A cute plate, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pahar.png        /imagine prompt: A cute drinking glass, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+furculita.png    /imagine prompt: A cute fork, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+lingura.png      /imagine prompt: A cute spoon, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cutit.png        /imagine prompt: A cute kitchen knife, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cana.png         /imagine prompt: A cute mug, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+dulap.png        /imagine prompt: A cute wardrobe, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+perna.png        /imagine prompt: A cute pillow, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+sapun.png        /imagine prompt: A cute bar of soap, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+periuta_de_dinti.png /imagine prompt: A cute toothbrush, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+prosop.png       /imagine prompt: A cute towel, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cada.png         /imagine prompt: A cute bathtub, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+oglinda.png      /imagine prompt: A cute mirror, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ghiveci.png      /imagine prompt: A cute flower pot, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+foarfeca.png     /imagine prompt: A cute pair of scissors, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+calculator.png   /imagine prompt: A cute laptop computer, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+radio.png        /imagine prompt: A cute retro radio, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cutie.png        /imagine prompt: A cute cardboard box, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+minge.png        /imagine prompt: A cute ball, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cuburi.png       /imagine prompt: A cute stack of toy blocks, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+papusa.png       /imagine prompt: A cute doll, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ursulet_de_plus.png /imagine prompt: A cute teddy bear, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+masinuta.png     /imagine prompt: A cute toy car, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+trenulet.png     /imagine prompt: A cute toy train, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+zmeu.png         /imagine prompt: A cute kite, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+creion.png       /imagine prompt: A cute pencil, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+caiet.png        /imagine prompt: A cute notebook, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ghiozdan.png     /imagine prompt: A cute backpack, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+puzzle.png       /imagine prompt: A cute puzzle piece, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+trompeta.png     /imagine prompt: A cute toy trumpet, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+toba.png         /imagine prompt: A cute toy drum, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+avion_de_hartie.png /imagine prompt: A cute paper airplane, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+robot.png        /imagine prompt: A cute toy robot, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+leagan.png       /imagine prompt: A cute playground swing, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+tobogan.png      /imagine prompt: A cute playground slide, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+creta.png        /imagine prompt: A cute piece of chalk, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pensula.png      /imagine prompt: A cute paintbrush, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+balon.png        /imagine prompt: A cute red balloon, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+soare.png        /imagine prompt: A cute smiling sun, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+luna.png         /imagine prompt: A cute crescent moon, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+stea.png         /imagine prompt: A cute yellow star, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+nor.png          /imagine prompt: A cute fluffy cloud, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ploaie.png       /imagine prompt: A cute cloud with raindrops, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+fulger.png       /imagine prompt: A cute lightning bolt, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+zapada.png       /imagine prompt: A cute snowflake, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+curcubeu.png     /imagine prompt: A cute rainbow, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+copac.png        /imagine prompt: A cute green tree, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+floare.png       /imagine prompt: A cute simple flower, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+iarba.png        /imagine prompt: A cute patch of grass, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+frunza.png       /imagine prompt: A cute green leaf, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+munte.png        /imagine prompt: A cute mountain with a snowy peak, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+val.png          /imagine prompt: A cute ocean wave, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+foc.png          /imagine prompt: A cute campfire, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+piatra.png       /imagine prompt: A cute grey stone, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+brad.png         /imagine prompt: A cute christmas tree, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+scoica.png       /imagine prompt: A cute seashell, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ghetar.png       /imagine prompt: A cute iceberg, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+vulcan.png       /imagine prompt: A cute cartoon volcano, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0```
+tricou.png /imagine prompt: A cute t-shirt, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pantaloni.png /imagine prompt: A cute pair of pants, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+rochie.png /imagine prompt: A cute dress, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pantof.png /imagine prompt: A cute shoe, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+caciula.png /imagine prompt: A cute winter hat, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+fular.png /imagine prompt: A cute scarf, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+manusi.png /imagine prompt: A cute pair of gloves, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+sosete.png /imagine prompt: A cute pair of socks, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+palton.png /imagine prompt: A cute coat, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+palarie.png /imagine prompt: A cute hat, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ochelari.png /imagine prompt: A cute pair of glasses, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ceas_de_mana.png /imagine prompt: A cute wristwatch, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+fusta.png /imagine prompt: A cute skirt, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cizme.png /imagine prompt: A cute pair of boots, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+camasa.png /imagine prompt: A cute shirt, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+masina.png /imagine prompt: A cute car, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+autobuz.png /imagine prompt: A cute bus, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+tren.png /imagine prompt: A cute train, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+avion.png /imagine prompt: A cute airplane, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+bicicleta.png /imagine prompt: A cute bicycle, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+barca.png /imagine prompt: A cute boat, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+vapor.png /imagine prompt: A cute ship, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+elicopter.png /imagine prompt: A cute helicopter, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+motocicleta.png /imagine prompt: A cute motorcycle, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+racheta.png /imagine prompt: A cute rocket ship, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ambulanta.png /imagine prompt: A cute ambulance, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+masina_de_pompieri.png /imagine prompt: A cute fire truck, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+masina_de_politie.png /imagine prompt: A cute police car, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+taxi.png /imagine prompt: A cute taxi cab, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+tractor.png /imagine prompt: A cute tractor, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+casa.png /imagine prompt: A cute house, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+bloc.png /imagine prompt: A cute apartment building, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+scoala.png /imagine prompt: A cute school building, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+spital.png /imagine prompt: A cute hospital building, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+magazin.png /imagine prompt: A cute shop, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+biserica.png /imagine prompt: A cute church, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+castel.png /imagine prompt: A cute castle, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pod.png /imagine prompt: A cute bridge, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+far.png /imagine prompt: A cute lighthouse, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cort.png /imagine prompt: A cute tent, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+iglu.png /imagine prompt: A cute igloo, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ferma.png /imagine prompt: A cute farm barn, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+fabrica.png /imagine prompt: A cute factory, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+piramida.png /imagine prompt: A cute pyramid, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+stadion.png /imagine prompt: A cute stadium, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+inima.png /imagine prompt: A cute red heart shape, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+cadou.png /imagine prompt: A cute gift box, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+inel.png /imagine prompt: A cute diamond ring, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+coroana.png /imagine prompt: A cute golden crown, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+diamant.png /imagine prompt: A cute diamond gem, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ban.png /imagine prompt: A cute gold coin, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+bec.png /imagine prompt: A cute light bulb, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+bomba.png /imagine prompt: A cute cartoon bomb, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pistol_cu_apa.png /imagine prompt: A cute water pistol, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+scut.png /imagine prompt: A cute shield, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+sabie.png /imagine prompt: A cute toy sword, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ochelari_de_soare.png /imagine prompt: A cute pair of sunglasses, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+microfon.png /imagine prompt: A cute microphone, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+chitara.png /imagine prompt: A cute guitar, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+pian.png /imagine prompt: A cute piano keyboard, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+minge_de_fotbal.png /imagine prompt: A cute soccer ball, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+minge_de_baschet.png /imagine prompt: A cute basketball, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+trofeu.png /imagine prompt: A cute gold trophy, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+medalie.png /imagine prompt: A cute gold medal, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+tinta.png /imagine prompt: A cute target with an arrow, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+paleta_de_culori.png /imagine prompt: A cute artist palette, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+lupa.png /imagine prompt: A cute magnifying glass, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+baterie.png /imagine prompt: A cute battery, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+priza.png /imagine prompt: A cute electrical outlet, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+magnet.png /imagine prompt: A cute magnet, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+lumanare.png /imagine prompt: A cute candle, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+calendar.png /imagine prompt: A cute calendar, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+plic.png /imagine prompt: A cute envelope, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+semn_de_intrebare.png /imagine prompt: A cute question mark, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+semn_de_exclamare.png /imagine prompt: A cute exclamation mark, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+glob_pamantesc.png /imagine prompt: A cute globe, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+harta.png /imagine prompt: A cute treasure map, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+steag.png /imagine prompt: A cute flag on a pole, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+ochi.png /imagine prompt: A cute cartoon eye, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+creier.png /imagine prompt: A cute cartoon brain, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+os.png /imagine prompt: A cute bone, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+dinte.png /imagine prompt: A cute smiling tooth, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+picatura.png /imagine prompt: A cute water drop, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+idee.png /imagine prompt: A cute idea lightbulb, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0
+timp.png /imagine prompt: A cute hourglass, WhatsApp sticker style, vector illustration, bold outlines, flat colors, on a solid white background --ar 1:1 --v 6.0

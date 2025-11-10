@@ -1,0 +1,25 @@
+{
+  "auto_calibrate_on_mic_start": true,
+  "auto_start_mic_with_conversation": true,
+  "conversation_without_camera": false,
+  "enable_echo_cancellation": false,
+  "enable_filler_sounds": false,
+  "threshold": 3639,
+  "margin_percent": 5,
+  "ask_pause_between_tiers": false,
+  "pause_duration": 1.0,
+  "max_speech_duration": 15,
+  "window_geometry": {
+    "x": 430,
+    "y": 139,
+    "width": 1495,
+    "height": 790,
+    "scale_factor": 1.25
+  },
+  "voice_recognition_threshold": 0.3,
+  "subtitle_font_size": 26,
+  "rina_language_code": "en",
+  "subtitle_mode": "original",
+  "ai_model_name": "models/gemini-flash-lite-latest",
+  "enable_speaker_identification": false
+}

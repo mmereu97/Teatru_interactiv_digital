@@ -1,0 +1,44 @@
+Collecting speechbrain==1.0.0
+  Downloading speechbrain-1.0.0-py3-none-any.whl.metadata (23 kB)
+Requirement already satisfied: huggingface_hub in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (1.0.1)
+Requirement already satisfied: hyperpyyaml in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from speechbrain==1.0.0) (1.2.2)
+Requirement already satisfied: joblib in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from speechbrain==1.0.0) (1.5.2)
+Requirement already satisfied: numpy in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from speechbrain==1.0.0) (2.2.6)
+Requirement already satisfied: packaging in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from speechbrain==1.0.0) (25.0)
+Requirement already satisfied: scipy in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from speechbrain==1.0.0) (1.16.3)
+Requirement already satisfied: sentencepiece in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from speechbrain==1.0.0) (0.2.1)
+Requirement already satisfied: torch>=1.9 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from speechbrain==1.0.0) (2.5.1+cu121)
+Requirement already satisfied: torchaudio in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from speechbrain==1.0.0) (2.5.1+cu121)
+Requirement already satisfied: tqdm in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from speechbrain==1.0.0) (4.67.1)
+Requirement already satisfied: filelock in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from huggingface_hub) (3.13.1)
+Requirement already satisfied: fsspec>=2023.5.0 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from huggingface_hub) (2024.6.1)
+Requirement already satisfied: httpx<1,>=0.23.0 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from huggingface_hub) (0.28.1)
+Requirement already satisfied: pyyaml>=5.1 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from huggingface_hub) (6.0.3)
+Requirement already satisfied: shellingham in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from huggingface_hub) (1.5.4)
+Requirement already satisfied: typer-slim in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from huggingface_hub) (0.20.0)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from huggingface_hub) (4.15.0)
+Requirement already satisfied: hf-xet<2.0.0,>=1.2.0 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from huggingface_hub) (1.2.0)
+Requirement already satisfied: anyio in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from httpx<1,>=0.23.0->huggingface_hub) (4.11.0)
+Requirement already satisfied: certifi in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from httpx<1,>=0.23.0->huggingface_hub) (2025.10.5)
+Requirement already satisfied: httpcore==1.* in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from httpx<1,>=0.23.0->huggingface_hub) (1.0.9)
+Requirement already satisfied: idna in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from httpx<1,>=0.23.0->huggingface_hub) (3.11)
+Requirement already satisfied: h11>=0.16 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from httpcore==1.*->httpx<1,>=0.23.0->huggingface_hub) (0.16.0)
+Requirement already satisfied: networkx in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from torch>=1.9->speechbrain==1.0.0) (3.3)
+Requirement already satisfied: jinja2 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from torch>=1.9->speechbrain==1.0.0) (3.1.4)
+Requirement already satisfied: setuptools in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from torch>=1.9->speechbrain==1.0.0) (80.9.0)
+Requirement already satisfied: sympy==1.13.1 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from torch>=1.9->speechbrain==1.0.0) (1.13.1)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from sympy==1.13.1->torch>=1.9->speechbrain==1.0.0) (1.3.0)
+Requirement already satisfied: colorama in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from tqdm->speechbrain==1.0.0) (0.4.6)
+Requirement already satisfied: sniffio>=1.1 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from anyio->httpx<1,>=0.23.0->huggingface_hub) (1.3.1)
+Requirement already satisfied: ruamel.yaml>=0.17.28 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from hyperpyyaml->speechbrain==1.0.0) (0.18.16)
+Requirement already satisfied: ruamel.yaml.clib>=0.2.7 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from ruamel.yaml>=0.17.28->hyperpyyaml->speechbrain==1.0.0) (0.2.14)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from jinja2->torch>=1.9->speechbrain==1.0.0) (2.1.5)
+Requirement already satisfied: click>=8.0.0 in c:\users\mihai\.conda\envs\aarici_env\lib\site-packages (from typer-slim->huggingface_hub) (8.1.8)
+Downloading speechbrain-1.0.0-py3-none-any.whl (760 kB)
+   ---------------------------------------- 760.1/760.1 kB 3.2 MB/s  0:00:00
+Installing collected packages: speechbrain
+  Attempting uninstall: speechbrain
+    Found existing installation: speechbrain 1.0.3
+    Uninstalling speechbrain-1.0.3:
+      Successfully uninstalled speechbrain-1.0.3
+Successfully installed speechbrain-1.0.0

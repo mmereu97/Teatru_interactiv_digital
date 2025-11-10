@@ -1,0 +1,162 @@
+# =================================================================================
+# PATCH COMPLET - Repararea TUTUROR problemelor
+# =================================================================================
+
+# =================================================================================
+# PROBLEMA 1: TypeError în base_character.py
+# =================================================================================
+
+GĂSEȘTE în base_character.py (linia ~163):
+
+    def setup_animators(self, layers):
+
+ÎNLOCUIEȘTE CU:
+
+    def setup_animators(self, layers, dpi_scaler=None):  # ⭐ Adăugat dpi_scaler!
+
+
+APOI GĂSEȘTE în aceeași metodă (linia ~175):
+
+            animator = animator_class(self, layers)
+
+ÎNLOCUIEȘTE CU:
+
+            animator = animator_class(self, layers, dpi_scaler)  # ⭐ Pasează dpi_scaler!
+
+
+# =================================================================================
+# PROBLEMA 2: Gaze Tracking NU scalează corect (main_app.py linia ~5366)
+# =================================================================================
+
+GĂSEȘTE în main_app.py (liniile 5366-5372):
+
+                if scene_config:
+                    scale = scene_config.get("scale", 0.3)
+                    scaled_pixmap = original_pixmap.scaled(
+                        int(original_pixmap.width() * scale),
+                        int(original_pixmap.height() * scale),
+                        Qt.AspectRatioMode.KeepAspectRatio,
+                        Qt.TransformationMode.SmoothTransformation
+                    )
+
+ÎNLOCUIEȘTE CU:
+
+                if scene_config:
+                    # ⭐ SCALARE SCALE PENTRU DPI
+                    scale_raw = scene_config.get("scale", 0.3)
+                    scale = scale_raw / self.dpi_scaler.scale_factor
+                    
+                    # ⭐ FOLOSEȘTE round() ÎN LOC DE int()
+                    scaled_pixmap = original_pixmap.scaled(
+                        round(original_pixmap.width() * scale),
+                        round(original_pixmap.height() * scale),
+                        Qt.AspectRatioMode.KeepAspectRatio,
+                        Qt.TransformationMode.SmoothTransformation
+                    )
+                    
+                    # ⭐ SALVEAZĂ PIXMAP-UL ORIGINAL pentru viitoare rescale-uri
+                    target_layer.original_pixmap = original_pixmap
+
+
+# =================================================================================
+# PROBLEMA 3: Semafor - widget-urile trebuie DEASUPRA fundalului
+# =================================================================================
+
+GĂSEȘTE în main_app.py (după linia ~1619, după print-ul cu semafor):
+
+        print(f"🔍 [SEMAFOR] Fundal scalat de la...")
+        
+        light_diameter = self.dpi_scaler.scaled(55)
+
+ADAUGĂ IMEDIAT DUPĂ print() și ÎNAINTE de light_diameter:
+
+        # ⭐ RIDICĂ FUNDALUL pentru a-l pune sub widget-uri
+        self.semafor_bg_label.lower()  # Pune fundalul JOS
+        print(f"🔍 [SEMAFOR] Background label lowered pentru z-order corect")
+
+
+APOI GĂSEȘTE (linia ~1657):
+
+        self.clepsidra_container.hide()
+        self.semafor_container.hide()
+        self.semafor_container.raise_()
+
+ÎNLOCUIEȘTE CU:
+
+        self.clepsidra_container.hide()
+        
+        # ⭐ RIDICĂ WIDGET-URILE DEASUPRA FUNDALULUI
+        self.semafor_rosu_widget.raise_()
+        self.semafor_verde_widget.raise_()
+        self.clepsidra_container.raise_()
+        
+        self.semafor_container.hide()
+        self.semafor_container.raise_()
+        
+        print(f"🔍 [SEMAFOR] Widgets raised - z-order corect (deasupra fundalului)")
+
+
+# =================================================================================
+# PROBLEMA 4: Ochii stau deschisi la început (emotional state "sleeping")
+# =================================================================================
+
+Asta e OK - e din cauza că EmotionAnimator setează "sleeping" dar trebuie să verifici
+dacă expresia "sleeping" are ochi închiși în config.json:
+
+"sleeping": {
+    "ochi": "cap/ochi/ochi_inchisi_centru.png",  ⭐ Verifică că există!
+    ...
+}
+
+
+# =================================================================================
+# PROBLEMA 5: Personajele dispar când schimbi scena
+# =================================================================================
+
+Asta e probabil din cauza că pozițiile din alte scene nu sunt scalate.
+Verifică în config.json:
+
+"scene_configs": {
+    "scoala": {
+        "scale": 0.3,
+        "pos": [150, 550]  ⭐ Aceste poziții vor fi scalate automat de cod
+    }
+}
+
+Dacă problema persistă, trebuie să verific metoda care schimbă scena.
+
+
+# =================================================================================
+# REZUMAT - Ce să faci:
+# =================================================================================
+
+1. ✅ Modifică base_character.py (2 locuri):
+   - Linia ~163: adaugă parametru dpi_scaler=None
+   - Linia ~175: pasează dpi_scaler la animator
+
+2. ✅ Modifică main_app.py - Gaze Tracking (linia ~5366):
+   - Scalează scale cu DPI
+   - Folosește round() în loc de int()
+   - Salvează original_pixmap
+
+3. ✅ Modifică main_app.py - Semafor Z-order (2 locuri):
+   - După linia ~1619: adaugă self.semafor_bg_label.lower()
+   - La linia ~1657: adaugă .raise() pentru fiecare widget
+
+4. ✅ Verifică config.json - expresia "sleeping" are ochi închiși
+
+
+# =================================================================================
+# TESTARE
+# =================================================================================
+
+După modificări:
+1. Șterge config.json
+2. Rulează aplicația
+3. Verifică:
+   - ✅ Ochii rămân aliniați când vorbește
+   - ✅ Semafor-ul arată corect (cercuri în găuri)
+   - ✅ Ochii sunt închiși la început
+   - ✅ Personajele nu dispar când schimbi scena
+
+Dacă mai sunt probleme, trimite-mi logurile! 🚀

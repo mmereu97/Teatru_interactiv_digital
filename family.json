@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Mihai",
+    "role": "Unchi",
+    "age": 45,
+    "level": 1,
+    "type": "",
+    "description": "barbat adult, blond, cu ochelari",
+    "learning_progress": {
+      "clasa_zero_avansat_fara_R": {
+        "current_tier": "tier_001",
+        "completed_questions": [
+          "q1",
+          "q2",
+          "q3"
+        ]
+      }
+    },
+    "voice_profile": {
+      "has_profile": true,
+      "trained_date": "05.11.2025"
+    }
+  },
+  {
+    "name": "Anca",
+    "role": "Mătușă",
+    "age": 46,
+    "level": 1,
+    "type": "",
+    "description": "femeie adulta, bruneta, par lung",
+    "learning_progress": {},
+    "voice_profile": {
+      "has_profile": true,
+      "trained_date": "05.11.2025"
+    }
+  }
+]

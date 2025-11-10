@@ -1,0 +1,136 @@
+a, m, i, t, e, n, o, u, p, ă, r, s, l, c, b, d, f, v, g, h, j, ș, ț, î, â, ce, ci, ge, gi, che, chi, ghe, ghi
+
+recunoastere voci
+de verificat daca face switch intre vorbitorii principali
+
+
+de verificat daca memoria contextuala de 10 e valabila si la limbi straine
+
+de verificat daca memoria contextuala de 10 e valabila si dupa ce termin o sesiune vreau sa invat 
+
+
+[DE IMPLEMENTAT] buton de oprire a conversatiei pentru dialoguri
+
+streaming voce
+
+curatenie in loguri
+
+[BUG] DACA OPRESC SI REPORNESC CAMERA SE ERONEAZA
+
+BIFA DE ASCUNS SUBTITRARI ROMANESTI CAND NU VORBESTE RINA
+BIFA DE ASCUNS SUBTITRARI DE SUS LA RINA
+BIFA DE ASCUNS SUBTITRARI DE JOS LA RINA
+
+
+COMBOX CARE DECIDE TIPUL DE CARACTERE PENTRU ALFABETELE NELATINE
+FA CEVA SA SE RULEZE AUTOMAT SI SUBTITRARILE ROMANESTI
+PUTEM FACE CEVA SA DECIDEM CE ANUME SE VA AFISA IN FIECARE FEREASTRA DE SUBTITRARI GEN JOS CARACTERE STRAINE IAR SUS CARACTERE LATINE
+
+
+[BUG] BUTON APPLY SCHIMBAREA LIMBILOR SI SETARILOR DIN MERS
+
+
+[DE IMPLEMENTAT]  Guardrails
+
+
+
+[INTERFATA] setat grupe de varsta
+[INTERFATA] sistem universal de a face cunostinta cu membrii familiei, varste si pets si voci
+
+[DE IMPLEMENTAT] conversatii directe intre personaje, pe diverse teme (fara filluri)
+
+[INTERFATA] background mai frumos in zona de chat
+
+
+
+de terminat pisica si de planificat alte 3 personaje native si de planificat roluri pentru ele
+
+
+
+de pus protectie cu generare de chei pereche
+
+
+
+
+fraze de testat emotii
+
+□ 1. NEUTRAL    → "Bună ziua" (stare inițială)
+□ 2. HAPPY      → "Mă bucur să te văd!"
+□ 3. ATTENTIVE  → "Poți să-mi explici ceva?"
+□ 4. THINKING   → "Pune-mi o întrebare"
+□ 5. CURIOUS    → "Am o poveste fascinantă"
+□ 6. CONFUZ     → "De ce cerul este pătrat?"
+□ 7. PROUD      → "Ești cel mai bun profesor!"
+□ 8. SAD        → "Mi-e dor de bunicul meu"
+□ 9. PLAYFUL    → "Hai să spunem glume!"
+□ 10. SURPRISED → "UAAA! Ce e aia?!"
+
+guard rails
+
+
+
+"Profesorul Bilingv"
+Concept: Utilizatorul învață cuvinte în engleză/română prin intermediul personajelor. Cucuvel poate prezenta un concept în română, iar Rina îl explică în engleză, sau invers.
+Exemplu de interacțiune:
+User: "Ce este un copac?"
+Cucuvel: "[EMOTION:attentive] Un copac este o plantă înaltă, cu un trunchi de lemn și frunze. Rina, poți să îi spui și tu prietenului nostru, în engleză?"
+Rina: "Of course! A tree is a tall plant with a wooden trunk and leaves."
+De ce este o idee bună: Folosește direct personalitățile definite (profesorul și prietena politicoasă) și transformă învățarea într-un dialog natural.
+
+
+Vânătoare de Comori Vizuală ("I Spy with my little eye")
+Concept: Un personaj roagă copilul să găsească și să arate la cameră un obiect de o anumită culoare sau formă. Inteligența vizuală a lui Gemini va confirma dacă obiectul este corect.
+Exemplu de interacțiune:
+Rina: "Let's play a game! Can you find something... blue and show it to me?"
+Copilul arată la cameră un cub albastru.
+Rina: "[EMOTION:happy] Wonderful! That is indeed blue. My turn is over. Cucuvel, your turn!"
+Cucuvel: "Grozav! Acum... găsește ceva rotund!"
+De ce este o idee bună: Este extrem de interactiv, implică mișcare fizică și utilizează la maximum capacitatea de analiză a imaginilor, una dintre cele mai puternice funcții ale aplicației.
+
+
+"Ce se aude?" - Joc de Sunete
+Concept: Adăugați un nou tip de asset: sunete ambientale (un câine care latră, o mașină, ploaia). Un personaj redă un sunet, iar copilul trebuie să ghicească ce este, eventual în ambele limbi.
+Exemplu de interacțiune:
+Cucuvel: "Ascultă cu atenție... [se aude un sunet de clopoțel]. Ce sunet ai auzit?"
+User: "Un clopoțel!"
+Cucuvel: "Exact! Rina, how do we say 'clopoțel' in English?"
+Rina: "We call it a 'bell'."
+De ce este o idee bună: Dezvoltă abilitățile auditive și de vocabular. Este ușor de implementat prin adăugarea unui folder nou de sunete.
+
+
+
+
+
+
+Charon - bun
+Algenib
+Alnailam 
+Algeiba
+Archird - nu place 
+Fenrir - voce buna pentru alt personaj poate 
+Enceladus
+lapetus - alt personaj
+orus - dinamic
+puck
+rasalgeti
+sadacbia
+sadaltager ok
+schedar gay
+umbriel
+pulcherima 
+zubeneglgenubi 
+
+
+
+sulafat sop
+Erinome
+Callirrhoe
+Despina
+Aoede - femeie
+Autonoe
+Gacrux - bun pentru copii
+kore
+laomedia- draguta
+leda - pupincureala
+vindemiatrix
+zephyr

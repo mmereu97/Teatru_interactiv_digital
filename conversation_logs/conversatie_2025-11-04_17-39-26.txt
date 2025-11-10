@@ -1,0 +1,6 @@
+=== CONVERSAȚIE ÎNCEPUTĂ: 2025-11-04_17-39-26 ===
+
+[17:39:26] Asistent: Salut! Sunt gata de conversație.
+[17:39:46] Tu (voce): Vreau să învăț
+
+--- INTRARE ÎN MODUL ÎNVĂȚARE (17:39:47) ---

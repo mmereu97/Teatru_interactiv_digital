@@ -1,0 +1,19 @@
+=== CONVERSAȚIE ÎNCEPUTĂ: 2025-11-08_14-49-10 ===
+
+[14:49:10] Asistent: Salut! Sunt gata de conversație.
+[14:49:20] Tu (voce): salut
+[14:49:23] Prof. Cucuvel Bufnițovici: Salutare! Văd că sunteți doi pe aici, un adult și un copil cu părul scurt și blond. Sunt gata să ascult ce aveți de spus!
+[14:49:48] Tu (voce): cine suntem noi
+[14:49:51] Prof. Cucuvel Bufnițovici: Ah, bună ziua! Văd aici doi prieteni dornici de joacă, un domn cu ochelari și un băiețel cu părul scurt. Dumneavoastră sunteți Mihai, unchiul, și micuțul Matei, nu-i așa?
+[14:50:10] Tu (voce): așa e
+[14:50:13] Prof. Cucuvel Bufnițovici: Mă bucur că ne-am potrivit la nume, Mihai! Văd că amândoi sunteți pasionați de cuburi; sper să fie o zi plină de reușite pentru voi doi la acest capitol!
+[14:50:43] Tu (voce): Vreau să învăț litera r
+[14:50:46] Prof. Cucuvel Bufnițovici: Hmm, nu găsesc domeniul 'litera r'. Poate nu l-ai configurat încă?
+[14:51:11] Tu (voce): Vreau să învăț
+[14:51:13] Prof. Cucuvel Bufnițovici: Hmm, nu găsesc domeniul ''. Poate nu l-ai configurat încă?
+[14:51:42] Tu (voce): Vreau să învăț
+[14:51:44] Prof. Cucuvel Bufnițovici: Văd că sunteți mai mulți aici. Care dintre voi dorește să înceapă o lecție?
+[14:51:56] Tu (voce): Matei
+[14:51:56] Prof. Cucuvel Bufnițovici: Hmm, nu găsesc domeniul ''. Poate nu l-ai configurat încă?
+
+=== APLICAȚIE ÎNCHISĂ: 2025-11-08 14:52:28 ===
