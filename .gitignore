@@ -23,6 +23,8 @@ build/
 *.db-wal
 *.sqlite3
 *.cache
+conversation_logs/
+
 
 # Foldere de backup (dacă nu vrei să le urmărești)
 backup/
