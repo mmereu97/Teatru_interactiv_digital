@@ -4,7 +4,7 @@
   "conversation_without_camera": false,
   "enable_echo_cancellation": false,
   "enable_filler_sounds": false,
-  "threshold": 3639,
+  "threshold": 4340,
   "margin_percent": 5,
   "ask_pause_between_tiers": false,
   "pause_duration": 1.0,
